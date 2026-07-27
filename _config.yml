@@ -14,12 +14,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Physical AI Lab Notes # the main title
+title: SOMA-σωμα LAB # the main title
 
-tagline: Isaac Sim · VLA · 로봇 데이터 큐레이션 삽질기 # it will display as the subtitle
+tagline: Physical AI Research Group  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Isaac Sim, GR00T, VLA 데이터 큐레이션 등 Physical AI 실험과 트러블슈팅 기록.
+  Isaac Sim, GR00T, VLA 데이터 큐레이션 등 Physical AI 실험 및 논문 기록.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
